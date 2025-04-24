@@ -1,0 +1,59 @@
+{
+  "left_side": 88,
+  "arrows": true,
+  "antiaim_el": {
+    "Air": {
+      "enable": true,
+      "mode": "Random",
+      "yaw_modifier": 112,
+      "yaw": -180
+    },
+    "Crouch": {
+      "enable": true,
+      "mode": "Center",
+      "yaw_modifier": 63,
+      "yaw": -180
+    },
+    "Run": {
+      "enable": true,
+      "mode": "Way-3",
+      "yaw_modifier": 63,
+      "yaw": -180
+    },
+    "Shared": {
+      "enable": false,
+      "mode": "None",
+      "yaw_modifier": -180,
+      "yaw": -180
+    },
+    "Stand": {
+      "enable": true,
+      "mode": "Random",
+      "yaw_modifier": 83,
+      "yaw": -180
+    },
+    "Walk": {
+      "enable": true,
+      "mode": "None",
+      "yaw_modifier": -180,
+      "yaw": 148
+    }
+  },
+  "watermark_color": "134, 150, 245",
+  "indicator_color": "134, 150, 245",
+  "indicator_features": "Condition",
+  "log_show": "Console, Screen",
+  "log_colorhit": "219, 88, 86",
+  "log_colorkill": "134, 150, 245",
+  "secondary": "Glock-18 / USP-S",
+  "fov": 80,
+  "condition": "Crouch",
+  "log": true,
+  "other": "Armor, High Explosive Grenade, Incendiary Grenade, Smoke Grenade",
+  "watermark": true,
+  "locations": "smarty",
+  "right_side": 67,
+  "indicator": true,
+  "manuals": true,
+  "primary": "SSG 08"
+}
